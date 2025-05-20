@@ -1,7 +1,7 @@
 from collections import deque
 import os
 
-FILE_PATH = "buku_tamu.txt"
+FILE_PATH = "buku_tamu_digital.txt"
 
 def load_data():
     queue = deque()
